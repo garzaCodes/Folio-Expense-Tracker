@@ -1,0 +1,16 @@
+.display-window {
+  /*background: rgba(105, 105, 105, 0.42);*/
+  /*color: white;*/
+}
+
+.amount {
+  font-size: 1.6rem;
+}
+
+.expenses {
+  color: rgba(208, 34, 34, 0.89);
+}
+
+.income {
+  color: green;
+}
